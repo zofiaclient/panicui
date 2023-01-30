@@ -39,6 +39,8 @@ panicui uses [fltk](https://www.fltk.org/) for UI, which works across practicall
 <sub>More examples are available in the <a href="https://github.com/imajindevon/panicui/tree/main/examples/">examples</a> folder.</sub>
 
 ```rust
+#![windows_subsystem = "windows"]
+
 use panicui::app::PanicApplication;
 use panicui::style::Style;
 use panicui::window::PanicWindow;

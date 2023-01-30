@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 use panicui::app::PanicApplication;
 use panicui::fltk::image::PngImage;
 use panicui::style::{Icon, Style};

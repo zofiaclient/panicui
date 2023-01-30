@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 use panicui::app::PanicApplication;
 use panicui::style::Style;
 use panicui::window::PanicWindow;

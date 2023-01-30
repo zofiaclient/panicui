@@ -1,6 +1,6 @@
 <div align="center">
     <h1>panicui</h1>
-    <img src="https://github.com/ImajinDevon/panicui/actions/workflows/rust.yml/badge.svg" alt="Rust build status badge">
+    <img src="assets/images/icon.png" alt="panicui icon" width="300" height="300">
 </div>
 
 ---
@@ -11,7 +11,7 @@
 
 panicui allows you to create panic hooks that open a crash log window in just 7 lines of code.
 
-![panicui UI preview](screenshots/Screenshot_1.png)
+![panicui UI preview](assets/screenshots/Screenshot_1.png)
 
 ## Why use panicui?
 

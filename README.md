@@ -7,7 +7,7 @@
 
 ## Description
 
-[panicui](https://crates.io/crate/panicui) provides a simple solution to easier debugging by utilizing user interface.
+[panicui](https://crates.io/crates/panicui) provides a simple solution to easier debugging by utilizing user interface.
 
 panicui allows you to create panic hooks that open a crash log window in just 7 lines of code.
 
@@ -21,7 +21,7 @@ Binary size of the program shown above (no strip, with debug symbols): ~1,010KB 
 
 ### 2. Fast build times
 
-panicui only uses one direct dependency, [fltk-rs](https://crates.io/crate/fltk).
+panicui only uses one direct dependency, [fltk-rs](https://crates.io/crates/fltk).
 
 ### 3. Portable across every platform
 

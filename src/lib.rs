@@ -1,6 +1,6 @@
 //! # Description
 //!
-//! [panicui](https://crates.io/crate/panicui) provides a simple solution to easier debugging by utilizing user interface.
+//! [panicui](https://crates.io/crates/panicui) provides a simple solution to easier debugging by utilizing user interface.
 //!
 //! ## 1. Extremely lightweight
 //!
@@ -8,7 +8,7 @@
 //!
 //! ## 2. Fast build times
 //!
-//! panicui only uses one direct dependency, [fltk-rs](https://crates.io/crate/fltk).
+//! panicui only uses one direct dependency, [fltk-rs](https://crates.io/crates/fltk).
 //!
 //! ## 3. Portable across every platform
 //!
